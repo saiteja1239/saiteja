@@ -30,3 +30,39 @@ touch sai teja gupta
 git add *
 git status
 exit
+git branch -a
+git push -u origin --delete aws
+git push -u origin --delete devops
+git branch -a
+git branch -r
+git branch
+git checkout master
+git stash
+git checkout master
+git status
+git add *
+git status
+git add .
+git status
+gitr commit -m "commit the files" .
+git commit -m "commit the files" .
+git status
+git checkout master
+git status
+git add .
+git status
+git commit -m "commit all files" .
+git status
+git checkout master
+git remote -v
+git push -u origin master
+cat aws
+git pull origin
+cat aws
+git checkout master
+cat aws
+git branch
+git checkout aws
+cat aws
+git checkout master
+cat aws
